@@ -1,8 +1,7 @@
 <html>
-  <head>
-  <title>About ME</title>
-  </head>
   <body>
-    <h1 align="center">Yo sup, Laksh here</h1>
+    <h1 align="center">Yooo sup, Laksh here</h1>
+    <h2 align="center">CSE student | Video editor | Developer </h2>
+    
   </body>
 </html>
